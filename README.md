@@ -1,6 +1,6 @@
 # Fabian-group-SNP
 
-## group_heterogeneous_sequences.py
+written for Fabian, so that he can asess which SNPs in a given sequence alignment are common to which group of sequences within the alignment. This is checked one index at a time.
 
-
-(written for Fabian, so that he can access which sequences within an slignment have the same SNP at one index at a time.)
+# Need to have
+- dark-matter (`pip install dark-matter`)
